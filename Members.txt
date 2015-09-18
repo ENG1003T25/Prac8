@@ -6,4 +6,11 @@ STEVE LEWORTHY
 
 ANDREW ROBINSON
 
+Brief introduction
+Human, Person, Male, Lives in Australia, Studying at Monash
+ 
+Role in project: programmer
+ 
+Preferred branch of engineering: mechatronics
+
 MATTHEW NETHERWAY
