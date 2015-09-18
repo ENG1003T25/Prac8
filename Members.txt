@@ -1,6 +1,9 @@
 LIST OF MEMBERS FOR TEAM 25
 
 HUGH INGRAM
+Small insignificant human
+Preferred branch: software engineering
+Role in project: head of discipline. Safeguarding the phone. 
 
 STEVE LEWORTHY
 
@@ -18,6 +21,14 @@ Human, Person, Male, Lives in Australia, Studying at Monash
  
 Role in project: programmer
  
-Preferred branch of engineering: mechatronics
+Preferred branch of engineering: mechatronics - this is a change
 
 MATTHEW NETHERWAY
+
+
+Brief introduction
+Human
+ 
+Role in project: Team Member
+ 
+Preferred branch of engineering: Mechatronics
