@@ -6,7 +6,6 @@ STEVE LEWORTHY
 
 ANDREW ROBINSON
 
-<<<<<<< HEAD
 MATTHEW NETHERWAY
 
 Brief introduction
@@ -14,6 +13,3 @@ Brief introduction
 Role in project: Team member
 
 Preferred branch of engineering: Mechatronics
-=======
-MATTHEW NETHERWAY
->>>>>>> parent of 0426973... Details
