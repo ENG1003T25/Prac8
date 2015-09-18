@@ -7,6 +7,13 @@ Role in team: head of discipline
 
 STEVE LEWORTHY
 
+Brief Introduction
+Crazy red haired human, Loves finals time, study at monash
+
+Preferred branch of engineering: mechatronics
+
+Role in project: Motivator, legal representation
+
 ANDREW ROBINSON
 
 Brief introduction
@@ -17,3 +24,11 @@ Role in project: programmer
 Preferred branch of engineering: mechatronics - this is a change
 
 MATTHEW NETHERWAY
+
+
+Brief introduction
+Human
+ 
+Role in project: Team Member
+ 
+Preferred branch of engineering: Mechatronics
