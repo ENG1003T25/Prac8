@@ -6,6 +6,7 @@ STEVE LEWORTHY
 
 ANDREW ROBINSON
 
+<<<<<<< HEAD
 MATTHEW NETHERWAY
 
 Brief introduction
@@ -13,3 +14,13 @@ Brief introduction
 Role in project: Team member
 
 Preferred branch of engineering: Mechatronics
+=======
+Brief introduction
+Human, Person, Male, Lives in Australia, Studying at Monash
+ 
+Role in project: programmer
+ 
+Preferred branch of engineering: mechatronics
+
+MATTHEW NETHERWAY
+>>>>>>> master
